@@ -7,7 +7,7 @@
     },
     "license": "GNU GPLv3",
     "build": {
-        "appId": "Ahmyth.android.rat",
+        "appId": "",
         "win": {
             "publisherName": "@MMachin3",
             "icon": "build/icon.ico"
