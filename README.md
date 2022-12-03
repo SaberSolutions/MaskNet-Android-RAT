@@ -11,4 +11,4 @@ It is unique as it has many variants:-
 7. App with Micophone and Camera permissions.
 
 MaskNet hides itself from launcher after installation.
-For Source Code contact me on tele9ram : @MMachin3. 
+For Source Code contact me on telegram : @MMachin3. 
